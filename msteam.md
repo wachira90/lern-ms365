@@ -12,7 +12,7 @@ Install-Module -Name MicrosoftTeams -Force -AllowClobber
 
 ## Login
 ````
-Connect-MicrosoftTeams  <LOGIN>
+Connect-MicrosoftTeams
 ````
 ### OR
 ````
